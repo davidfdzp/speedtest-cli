@@ -42,7 +42,10 @@ For Linux users, you can use either the archive from golang.org, or install from
     ```shell script
     # pacman -S go
     ```
-   
+   For example, Ubuntu:
+    sudo apt install golang-go
+    sudo apt install gccgo-go
+      
 2. Then, clone the repository:
 
     ```shell script
