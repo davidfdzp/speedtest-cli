@@ -44,10 +44,8 @@ For Linux users, you can use either the archive from golang.org, or install from
     ```
     For example, Ubuntu:
    
-   ```shell script
-    sudo apt install golang-go
-    sudo apt install gccgo-go
-   ```
+   https://linuxize.com/post/how-to-install-go-on-ubuntu-18-04/
+   
 2. Then, clone the repository:
 
     ```shell script
